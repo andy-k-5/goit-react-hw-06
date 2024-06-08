@@ -1,0 +1,6 @@
+[
+  { "id": "id-1", "name": "Lewis Hamilton", "number": "459-12-56" },
+  { "id": "id-2", "name": "Sebastian Vettel", "number": "443-89-12" },
+  { "id": "id-3", "name": "Lando Norris", "number": "645-17-79" },
+  { "id": "id-4", "name": "Fernando Alonso", "number": "227-91-26" }
+]
